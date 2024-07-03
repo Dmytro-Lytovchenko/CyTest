@@ -3,3 +3,6 @@ and then use this command to install Cypress:
 
 npm install cypress
 
+To run Cypress test use following command:
+
+npx cypress open  
