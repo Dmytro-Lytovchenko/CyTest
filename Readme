@@ -1,0 +1,5 @@
+Before you start running the tests, please install Node.js from the official website (https://nodejs.org/en) 
+and then use this command to install Cypress:
+
+npm install cypress
+
